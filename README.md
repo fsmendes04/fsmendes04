@@ -10,29 +10,13 @@ Passionate full-stack developer and AI enthusiast currently pursuing my Master's
 
 ---
 
-## 💼 Technical Skills
-
-**Frontend Development**
-- React.js · Flutter · TypeScript
-
-**Backend Development**
-- Java · Python · SQL · Node.js
-
-**AI & Machine Learning**
-- Python · Scikit-learn
-
-**Tools & Platforms**
-- Git · Docker · Firebase · Supabase · Cloud Architectures
-
----
-
 ## 🚀 Tech Stack
 
 | Category | Technologies |
 |----------|---------------|
 | **Frontend** | ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) |
 | **Backend** | ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white) |
-| **AI/ML** | ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white) ![Scikit-learn](https://img.shields.io/badge/Scikit_learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white) |
+| **AI/ML** | ![Scikit-learn](https://img.shields.io/badge/Scikit_learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white) |
 | **Database** | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black) |
 
 ---
