@@ -21,18 +21,6 @@ Passionate full-stack developer and AI enthusiast currently pursuing my Master's
 
 ---
 
-## 🏆 Featured Projects
-
-**EcoPulse** - Collaborative territorial management platform built with Flutter, ReactJS, and Python
-
-**UniFlow** - Academic app for student schedule management using Python, Flutter, and Firebase
-
-**SquadUp** - Social app for event planning and expense splitting with Flutter, Supabase, and Node.js
-
-**Social Network Prototype** - Java-based application with REST architecture and gRPC integration
-
----
-
 ## 📫 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/francisco-mendes-4a763b270/)
