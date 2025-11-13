@@ -11,12 +11,12 @@ Passionate full-stack developer and AI enthusiast currently pursuing my Master's
 ## 🚀 Tech Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=docker,flutter,git,java,python,supabase,react,nodejs,typescript" />
+  <img src="https://skillicons.dev/icons?i=docker,flutter,git,java,python,supabase,react,nodejs,typescript,sklearn,postman" />
 </p>
 
 ## 📫 Connect With Me
 
-<p align="center">
+<p align="left">
   <a href="https://www.linkedin.com/in/TEU_LINKEDIN_AQUI">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
