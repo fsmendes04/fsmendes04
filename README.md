@@ -2,18 +2,15 @@
 
 **Full Stack Developer** | AI & Machine Learning Enthusiast | MSc in Computer Engineering (AI Specialization)
 
-
 ## 🎯 About Me
 
 Passionate full-stack developer and AI enthusiast currently pursuing my Master's degree in Computer Engineering with a specialization in Artificial Intelligence. I love building intelligent systems and scalable applications that solve real-world problems.
 
 ## 🚀 Tech Stack
 
-<img src="./icons/Docker.svg" width="48">
-<img src="./icons/Flutter-Dark.svg" width="48">
-<img src="./icons/Git.svg" width="48">         |
-<img src="./icons/Github-Dark.svg" width="48">
-<img src="./icons/Java-Dark.svg" width="48">
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=docker,flutter,git,github,java" />
+</p>
 
 ## 📫 Connect With Me
 
