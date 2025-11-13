@@ -1,46 +1,19 @@
-# 👋 Francisco Mendes  
-### Full Stack Developer | AI & Machine Learning Enthusiast  
-**MSc in Computer Engineering (AI Specialization)**
+# 👋 Francisco Mendes
 
----
+**Full Stack Developer** | AI & Machine Learning Enthusiast | MSc in Computer Engineering (AI Specialization)
 
-## 🎯 About Me  
-Sou um full-stack developer apaixonado por criar aplicações escaláveis e sistemas inteligentes.  
-Atualmente a terminar o meu mestrado em Engenharia Informática com especialização em Inteligência Artificial.  
-Gosto de transformar ideias em soluções reais através de tecnologia, machine learning e bom design.
+## 🎯 About Me
 
----
+Passionate full-stack developer and AI enthusiast currently pursuing my Master's degree in Computer Engineering with a specialization in Artificial Intelligence. I love building intelligent systems and scalable applications that solve real-world problems.
 
 ## 🚀 Tech Stack
 
-### 🖥️ Backend & DevOps
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=java,nodejs,python,docker" />
+  <img src="https://skillicons.dev/icons?i=docker,flutter,git,java,python,supabase,react,nodejs,typescript,sklearn,postman" />
 </p>
-
-### 📱 Frontend & Mobile
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=react,flutter,typescript" />
-</p>
-
-### 🧠 AI & Machine Learning
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=sklearn,python" />
-</p>
-
-### 🗄️ Databases & Cloud
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=supabase" />
-</p>
-
-### 🛠️ Tools & Utilities
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=git,postman" />
-</p>
-
----
 
 ## 📫 Connect With Me
+
 <p align="left">
   <a href="https://www.linkedin.com/in/TEU_LINKEDIN_AQUI">
     <img src="https://skillicons.dev/icons?i=linkedin" />
@@ -50,3 +23,4 @@ Gosto de transformar ideias em soluções reais através de tecnologia, machine 
     <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
 </p>
+
