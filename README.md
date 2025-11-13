@@ -15,11 +15,11 @@ Passionate full-stack developer and AI enthusiast currently pursuing my Master's
 ## 📫 Connect With Me
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/TEU_LINKEDIN_AQUI">
+  <a href="https://www.linkedin.com/in/francisco-mendes-4a763b270">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
   &nbsp;&nbsp;
-  <a href="mailto:TEU_EMAIL_AQUI">
+  <a href="mailto:fs.mendes04@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
 </p>
