@@ -8,11 +8,21 @@ Passionate full-stack developer and AI enthusiast currently pursuing my Master's
 
 ## 🚀 Tech Stack
 
+## 🚀 Tech Stack
+
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=docker,flutter,git,github,java" />
+  <img src="https://skillicons.dev/icons?i=docker,flutter,git,java,python,supabase,react,nodejs,typescript" />
 </p>
 
 ## 📫 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/francisco-mendes-4a763b270/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fs.mendes04@gmail.com)
+<p align="left">
+  <a href="https://www.linkedin.com/in/francisco-mendes-4a763b270/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" width="50" />
+  </a>
+
+  <a href="mailto:fs.mendes04@gmail.com">
+    <img src="https://skillicons.dev/icons?i=mail" width="50" />
+  </a>
+</p>
+
